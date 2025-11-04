@@ -1,0 +1,20 @@
+---
+title: "Tennis Data Analysis"
+author: "Luca Pavan - MSc Data Science graduate passioante about data analytics and insight generation"
+date: "2025-11-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This Project investigates the most important match statistics in tennis match outcomes using R. 
+
+## Files 
+
+- **Tennis Statistics Analysis.R** - Script for data cleaning, visualisations and modelling. 
+- **Determining which statistics have the most significant influence on tennis match outcomes** - A word document report of the analysis. 
+- **atp_matches_2024.csv ** - Data file used for analysis. 
+
+
