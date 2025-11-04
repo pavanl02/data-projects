@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This Project investigates the most important match statistics in tennis match outcomes using R. 
+This Project investigates the most important match statistics in tennis match outcomes across the atp 2024 season using R. 
 
 ## Files 
 
