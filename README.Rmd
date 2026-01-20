@@ -1,6 +1,6 @@
 ---
 title: "Tennis Data Analysis"
-author: "Luca Pavan - MSc Data Science graduate passioante about data analytics and insight generation"
+author: "Luca Pavan - MSc Data Science graduate passionate about data analytics and insight generation"
 date: "2025-11-04"
 output: html_document
 ---
